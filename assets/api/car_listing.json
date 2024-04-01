@@ -1,0 +1,63 @@
+[
+    {
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "category": "Bussines"
+    },
+    {
+      "brand": "Škoda",
+      "model": "Octavia",
+      "category": "Standard"
+    },
+    {
+      "brand": "Mercedes",
+      "model": "E-class",
+      "category": "Bussines"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "category": "Economy"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "Travler",
+      "category": "Bussines Van"
+    },
+    {
+      "brand": "Mercedes",
+      "model": "Vito - Viano",
+      "category": "Bussines Van"
+    },
+    {
+      "brand": "Opel",
+      "model": "Vivaro",
+      "category": "Economy Van"
+    },
+    {
+      "brand": "Renault",
+      "model": "Traffic",
+      "category": "Economy Van"
+    },
+    {
+      "brand": "Mercedes",
+      "model": "S-class",
+      "category": "Executive"
+    },
+    {
+      "brand": "BMW",
+      "model": "740",
+      "category": "Executive"
+    },
+    {
+      "brand": "Minibus",
+      "model": "Minibus",
+      "category": "Bus | Minibus"
+    },
+    {
+      "brand": "Bus",
+      "model": "Bus",
+      "category": "Bus | Minibus"
+    }
+  ]
+  

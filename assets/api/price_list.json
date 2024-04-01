@@ -1,0 +1,55 @@
+{
+    "locations": [
+      {
+        "name": "Airpot transfer Pick-up/Drop off Sarajevo City Area",
+        "economyCar": "40BAM / 20 €",
+        "businessSedan": "90BAM / 45 €",
+        "economyVan": "70BAM / 35 €",
+        "businessVan": "120BAM / 60 €",
+        "executive": "On Request Call Us"
+      },
+      {
+        "name": "Bjelašnica / Igman Montains",
+        "economyCar": "75BAM / 38 €",
+        "businessSedan": "150BAM / 75 €",
+        "economyVan": "100BAM / 50 €",
+        "businessVan": "180BAM / 90 €",
+        "executive": ""
+      },
+      {
+        "name": "Jahorina",
+        "economyCar": "85BAM / 43 €",
+        "businessSedan": "160BAM / 80 €",
+        "economyVan": "110BAM / 55 €",
+        "businessVan": "190BAM / 95 €",
+        "executive": ""
+      },
+      {
+        "name": "Mostar",
+        "economyCar": "240BAM / 125 €",
+        "businessSedan": "350BAM / 175 €",
+        "economyVan": "325BAM / 165 €",
+        "businessVan": "400BAM / 200 €",
+        "executive": ""
+      },
+      {
+        "name": "Međugorije",
+        "economyCar": "350BAM / 180 €",
+        "businessSedan": "450BAM / 230 €",
+        "economyVan": "400BAM / 200 €",
+        "businessVan": "650BAM / 330 €",
+        "executive": ""
+      },
+      {
+        "name": "Zenica",
+        "economyCar": "175BAM / 90 €",
+        "businessSedan": "230BAM / 120 €",
+        "economyVan": "230BAM / 120 €",
+        "businessVan": "340BAM / 170 €",
+        "executive": ""
+      }
+    ]
+  }
+  
+
+  
